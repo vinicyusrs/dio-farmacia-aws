@@ -33,7 +33,10 @@ A Implementação de ferramentas na empresa *Abstergo Industries tem como espera
 Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
 ## Anexos
+- Documentação
+AWS Lambda: https://docs.aws.amazon.com/lambda/
+Amazon EC2:https://docs.aws.amazon.com/ec2/
+Amazon S3: https://docs.aws.amazon.com/s3/
 
-[lista de anexos, como manuais, documentos, planilhas, entre outros]
 Assinatura do Responsavel pelo Projeto:
 Vinicyus Rodrigues Santos
